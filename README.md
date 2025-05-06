@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name's Jonathan Fabro<br>IT technology student in progress!<br>I am currently studying the Analyst Programmer career.<br>Also learning languages ​​like HTML, CSS, Python, MySQL.<br>My current goal is to acquire as much knowledge as possible to insert myself into the IT world of work.
+Hi! My name's Jonathan Fabro<br>IT technology student in progress!<br>I am currently studying the Analyst Programmer career.<br>Also learning languages ​​like HTML, CSS, C#, Python, MySQL.<br>My current goal is to acquire as much knowledge as possible to insert myself into the IT world of work.
 
 
 ## 🌐 Socials:
